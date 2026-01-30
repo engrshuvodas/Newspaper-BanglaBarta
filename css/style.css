@@ -1,5 +1,5 @@
 /* ============================================
-   BANGLA BARTA - Modern & Responsive CSS
+   BANGLA BARTA - Professional Newspaper CSS
    ============================================ */
 
 /* ============================================
@@ -10,7 +10,7 @@
   /* Primary Colors */
   --primary-color: #366129;
   --primary-light: #4a7d39;
-  --primary-dark: #2a4a1f;
+  --primary-dark: #1a3313;
   
   /* Secondary Colors */
   --secondary-color: #009DA6;
@@ -19,33 +19,40 @@
   
   /* Neutral Colors */
   --text-dark: #1a1a1a;
-  --text-light: #555;
-  --text-muted: #888;
-  --bg-light: #f5f5f5;
+  --text-light: #444;
+  --text-muted: #777;
+  --bg-light: #f9f9f9;
   --bg-white: #ffffff;
-  --border-color: #e0e0e0;
+  --border-color: #ddd;
+  
+  /* Accent Colors */
+  --accent-red: #e74c3c;
+  --accent-orange: #e67e22;
+  --accent-blue: #3498db;
   
   /* Status Colors */
-  --success-color: #28a745;
-  --warning-color: #ffc107;
-  --error-color: #dc3545;
+  --success-color: #27ae60;
+  --warning-color: #f39c12;
+  --error-color: #e74c3c;
   
   /* Fonts */
   --font-primary: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  --font-secondary: 'Georgia', serif;
+  --font-secondary: 'Cambria', 'Palatino', serif;
   --font-size-base: 16px;
-  --font-size-sm: 14px;
+  --font-size-sm: 13px;
+  --font-size-md: 14px;
   --font-size-lg: 18px;
   --font-size-xl: 24px;
   --font-size-xxl: 32px;
+  --font-size-huge: 42px;
   
   /* Spacing */
   --space-xs: 4px;
   --space-sm: 8px;
-  --space-md: 16px;
-  --space-lg: 24px;
-  --space-xl: 32px;
-  --space-xxl: 48px;
+  --space-md: 12px;
+  --space-lg: 16px;
+  --space-xl: 24px;
+  --space-xxl: 32px;
   
   /* Border Radius */
   --radius-sm: 4px;
